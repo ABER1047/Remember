@@ -1,0 +1,17 @@
+!!! 글꼴 font0의 글꼴 패밀리 Hack-Namsan이(가) 설치되었지만 스타일과 일치하지 않습니다. 글꼴이 재생성 되지 않았습니다.
+!!! 글꼴 font1의 글꼴 패밀리 Hack-Namsan이(가) 설치되었지만 스타일과 일치하지 않습니다. 글꼴이 재생성 되지 않았습니다.
+!!! 글꼴 font2의 글꼴 패밀리 Hack-Namsan이(가) 설치되었지만 스타일과 일치하지 않습니다. 글꼴이 재생성 되지 않았습니다.
+macOS 아이콘 ${options_dir}\mac\icons\icon512.png이(가) 32비트로 작성되었습니다.
+GameMake Studio2의 변경 사항으로 Windows NSIS 설치 스크립트가 기본값으로 설정되었습니다.
+게임 속도를 50으로 정합니다.
+호환성 스크립트 'action/action_color.gml' 추가
+호환성 스크립트 'action/action_create_object.gml' 추가
+호환성 스크립트 'action/action_current_room.gml' 추가
+호환성 스크립트 'action/action_end_game.gml' 추가
+호환성 스크립트 'action/action_font.gml' 추가
+호환성 스크립트 'action/action_if_variable.gml' 추가
+호환성 스크립트 'instance/instance_create.gml' 추가
+호환성 스크립트 'object/object_get_depth.gml' 추가
+호환성 스크립트 'action/__init_action.gml' 추가
+호환성 스크립트 '__init_global.gml' 추가
+호환성 스크립트 '__global_object_depths.gml' 추가
