@@ -1,0 +1,2 @@
+GoogleMobileAds_RemoveBanner();
+

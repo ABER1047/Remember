@@ -1,0 +1,11 @@
+tr = irandom_range(0,255)
+tg = irandom_range(0,255)
+tb = irandom_range(0,255)
+
+tco = irandom_range(0,255)
+tsa = irandom_range(0,255)
+tbr = irandom_range(0,255)
+
+
+alarm[3] = 50
+
